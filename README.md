@@ -1,2 +1,3 @@
-# get_next_line
+# Get_next_line
+
 The aim of this project is to make you code a function that returns a line, read from a file descriptor.
